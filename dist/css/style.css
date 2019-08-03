@@ -265,7 +265,7 @@ img {
 }
 
 /* Media Queries */
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .section-a .container {
     grid-template-columns: 1fr;
     text-align: center;
@@ -282,12 +282,6 @@ img {
   .section-a img {
     width: 80%;
     margin: auto;
-  }
-
-  .text-2,
-  .text-5,
-  .mt-1 {
-    display: inline-flex;
   }
 
   .section-c .gallery {
