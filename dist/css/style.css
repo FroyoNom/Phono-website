@@ -284,6 +284,10 @@ img {
     margin: auto;
   }
 
+  .section-b-inner {
+    font-size: 1rem;
+  }
+
   .section-c .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
