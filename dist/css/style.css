@@ -284,8 +284,10 @@ img {
     margin: auto;
   }
 
-  .section-b-inner {
-    font-size: 1rem;
+  .text-2,
+  .text-5,
+  .mt-1 {
+    display: inline-flex;
   }
 
   .section-c .gallery {
